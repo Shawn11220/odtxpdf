@@ -36,25 +36,15 @@ The project focuses on the essential pipeline like:
 ODTXPDF/
 
 ├── cli.py
-
 ├── core/
-
 │ ├── init.py
-
 │ ├── renderer.py
-
 │ ├── converter.py #
-
 │ └── validator.py
-
 ├── examples/
-
 │ ├── certificate.odt
-
 │ └── data.json
-
 ├── requirements.txt
-
 └── README.md
 
   
