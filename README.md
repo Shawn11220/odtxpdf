@@ -85,7 +85,7 @@ User provides:
 
   
 
-### Step 3 — Conversion
+### Step 3 - Conversion
 
 - Finally, LibreOffice (headless mode) converts it to:
 
