@@ -33,18 +33,20 @@ The project focuses on the essential pipeline like:
 
 ## Project Structure
 
->ODTXPDF/
-> ├── cli.py    
-> ├── core/    
-> │ ├── init.py    
-> │ ├── renderer.py    
-> │ ├── converter.py     
-> │ └── validator.py    
-> ├── examples/    
-> │ ├── certificate.odt     
-> │ └── data.json   
-> ├── requirements.txt  
-> └── README.md
+```
+ODTXPDF/
+ ├── cli.py    
+ ├── core/    
+ │ ├── init.py    
+ │ ├── renderer.py    
+ │ ├── converter.py     
+ │ └── validator.py    
+ ├── examples/    
+ │ ├── certificate.odt     
+ │ └── data.json   
+ ├── requirements.txt  
+ └── README.md  
+ ```
 
   
 
