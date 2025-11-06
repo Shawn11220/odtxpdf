@@ -1,0 +1,5 @@
+Certificate of Completion
+
+This certifies that {{ student_name }}
+has successfully completed the course
+"{{ course_name }}" on {{ completion_date }}.
